@@ -15,14 +15,14 @@ related:
 
 ```
 /docs
-  PRD.md
-  ADR.md
-  ARCHITECTURE.md
-  MILESTONES.md
-  STACK.md
-  DESIGN.md
+  prd.md
+  adr.md
+  architecture.md
+  milestones.md
+  stack.md
+  design.md
 
 ```
 
-- PRD: product requirements document 
-- ADR: architecture decision records 
+- prd: product requirements document 
+- adr: architecture decision records 
